@@ -32,6 +32,8 @@ Model ID：指定使用的 DeepSeek 模型 ID。不同的模型可能具有不�
 请确保 API Key 和 API URL 的正确性，否则将无法正常调用 DeepSeek API。
 由于插件处于 Beta 版本，可能存在一些不稳定因素，建议在测试环境中进行充分测试后再考虑在生产环境中使用。
 日志文件会进行轮换，当文件大小超过 10MB 时，会自动备份并创建新的日志文件。
+
+
 8.关于Bug以及后续更新
 
 1.我们非常感谢您提供的bug和建议，若想要联系我们，可向我们发布邮件：ad001@hmcsz.top，当我们收到邮件时，我们会及时处理，当然，也希望您在邮件中留下您的联系方式（WeChat，QQ，X），并在附件中提交错误日志和截图（还有服务器系统，PHP版本等）若有更新建议，也可向我们发送邮件，感谢您的使用！
@@ -39,6 +41,7 @@ Model ID：指定使用的 DeepSeek 模型 ID。不同的模型可能具有不�
 2.若您使用的api服务商不可用，您也可联系我们，我们会适时考虑适配
 
 3.后续更新也会在此页面发布敬请留意
+
 
 9.运行环境
 
@@ -50,6 +53,8 @@ max_execution_time：建议设置为 300 秒，以避免脚本在处理 API 请�
 网络连接：服务器需要能够访问 DeepSeek API 的网络地址，因此需要确保服务器具有稳定的网络连接。
 文件权限：确保 WordPress 网站目录和文件具有正确的读写权限，特别是插件需要创建日志文件和目录的情况下，需要保证相应的目录具有写入权限。
 PHP 版本：需要 PHP 版本 5.6 及以上，不过建议使用 PHP 7.4 或者更高版本，以获得更好的性能和安全性。
+
+
 DeepSeek Comment System Plugin Admin Configuration Documentation
 
 1. Plugin Overview
@@ -99,4 +104,5 @@ max_execution_time: ≥300 seconds
 Network: Stable connection to DeepSeek API endpoints.
 File Permissions: Ensure write access to WordPress directories (e.g., for log creation).
 PHP Version: ≥5.6 (recommended: ≥7.4 for security/performance).
+
 by 香山一棵葱 Team
