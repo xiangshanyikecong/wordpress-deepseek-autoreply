@@ -3,7 +3,7 @@ DeepSeek 评论系统插件管理员后台配置文档
 https://hmcsz.top/index.php/2025/03/06/wordpress%e4%b8%8b%e7%9a%84deepseek-%e8%af%84%e8%ae%ba%e7%b3%bb%e7%bb%9f-%e6%8f%92%e4%bb%b6%e6%93%8d%e4%bd%9c%e6%96%87%e6%a1%a3/
 
 1. 插件概述
-DeepSeek 评论系统插件用于对接 DeepSeek API 实现自动回复访客评论的功能。此插件为 Beta 版本，可能存在问题，不建议在生产环境中安装使用。
+DeepSeek 评论系统插件用于对接 DeepSeek API 实现自动回复访客评论的功能。
 我们深度建议您使用欧派云（https://ppinfra.com/user/register?invited_by=F1E6HR）
 作为api服务商，当然，若其它服务商提供的api可正常运行那也没问题。
 
